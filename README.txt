@@ -1,0 +1,1 @@
+Introduction to intelligent systems - Assignment 1 - Generic Algorithms
