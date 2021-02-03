@@ -12,7 +12,7 @@ public class Main {
         System.out.println(" ");
 
 
-        // PROBLEM 1 ////////////////////////////////////
+        // PROBLEM 1 /////////////////////////////////////
         // CONSTANTS
         final int POPULATION_SIZE = 2000;
         final double MUTATION_RATE = 0.05;
